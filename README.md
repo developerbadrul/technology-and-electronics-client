@@ -1,7 +1,30 @@
 # Gadget Grove
 
+## Project Details:
 
-### Live Link: https://auth-test-520cf.web.app
+- **Live Link:** [Gadget Grove](https://auth-test-520cf.web.app)
+- **GitHub Client Repository:** [Client Repository](https://github.com/developerbadrul/technology-and-electronics-client)
+- **GitHub Server Repository:** [Server Repository](https://github.com/developerbadrul/technology-and-electronics-backend)
+
+## Unique Features:
+
+1. **Advanced Private Routing:**
+   - Implements robust private routing, ensuring that specific sections or pages are exclusively accessible to authenticated users, thereby enhancing data security and user experience.
+
+2. **Comprehensive Deployment:**
+   - Successfully deploys both the front-end and back-end components, showcasing a well-hosted and accessible project, potentially as a live website or application.
+
+## Unique Technologies:
+
+1. **Firebase Authentication:**
+   - Utilizes Firebase for authentication, demonstrating an advanced security and user management system beyond the standard technologies covered in the course.
+
+2. **Full-Stack Development:**
+   - Incorporates a Node.js server for handling backend logic, indicating a comprehensive full-stack development approach that contributes to the self-containment of the web application.
+
+
+<img src="https://i.ibb.co/C76bWHt/screencapture-auth-test-520cf-web-app-2023-12-14-17-47-57-1.png"/>
+
 
 ### Summary of your project "Gadget Grove" in five bullet points based on the additional information provided:
 
